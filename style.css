@@ -8,6 +8,18 @@
   margin-top: 5vw;
 }
 
+.cellular_connection {
+  margin-left: 10px;
+}
+
+.wifi {
+  margin-left: 10px;
+}
+
+.battery {
+  margin-left: 10px;
+}
+
 .time > p {
   display: inline;
   font-family: 'Roboto', sans-serif;
