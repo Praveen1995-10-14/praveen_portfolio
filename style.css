@@ -8,7 +8,7 @@
   margin-top: 5vw;
 }
 
-.time>p {
+.time > p {
   display: inline;
   font-family: 'Roboto', sans-serif;
 }
@@ -19,7 +19,6 @@
   flex: 6;
 }
 
-
 nav {
   display: flex;
   align-items: center;
@@ -29,30 +28,26 @@ nav {
   margin-top: 10px;
 }
 
-.nav_logo>h1 {
+.nav_logo > h1 {
   font-family: 'Poppins', sans-serif;
   color: #6070ff;
   font-size: 1.5em;
   display: inline;
 }
 
-
-
 .navMenu {
-  font-family: Poppins;
+  font-family: sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 20px;
-  letter-spacing: 0em;
+  letter-spacing: 0;
   text-align: center;
-
 }
 
 .background {
   height: 10px;
   width: 375px;
   margin: auto;
- 
 }
 
 #content {
@@ -63,16 +58,15 @@ nav {
   margin: auto;
 }
 
-
 .heading {
   height: 150px;
   width: 327px;
   margin: auto;
 }
 
-.heading>h2 {
-  font-family: Poppins;
-  font-style: Bold;
+.heading > h2 {
+  font-family: sans-serif;
+  font-style: "bold";
   font-size: 40px;
   font-weight: 700;
   color: #172b4d;
@@ -82,11 +76,11 @@ nav {
   vertical-align: center;
 }
 
-.body>p {
+.body > p {
   width: 327px;
   height: 146px;
   font-family: 'Poppins', sans-serif;
-  font-style: Regular;
+  font-style: "Regular";
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -96,16 +90,15 @@ nav {
   text-align: center;
 }
 
-.socialMedia>h3 {
+.socialMedia > h3 {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-size: 16px;
   color: #7f8cff;
 }
 
-.socialMedia_logo{
+.socialMedia_logo {
   list-style-type: none;
   margin: 0 px;
   padding: 0 px;
 }
-
