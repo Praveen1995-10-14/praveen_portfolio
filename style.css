@@ -1,0 +1,147 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+#nav_header {
+  display: flex;
+  align-items: center;
+  width: 327px;
+  height: 40px;
+  margin: auto;
+  padding: 0 px;
+  margin-top: 5vw;
+}
+
+.cellular_connection {
+  margin-left: 5px;
+}
+
+.wifi {
+  margin-left: 5px;
+}
+
+.battery {
+  margin-left: 5px;
+}
+
+.time > p {
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+}
+
+.space {
+  height: 10px;
+  width: 10px;
+  flex: 6;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 327px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+a {
+  width: 76px;
+  height: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #6070ff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.navMenu {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.background {
+  height: 10px;
+  width: 375px;
+  margin: auto;
+}
+
+#content {
+  width: 327px;
+  height: 10px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.heading {
+  height: 150px;
+  width: 327px;
+  margin: auto;
+}
+
+.heading > h2 {
+  width: 327px;
+  height: 150px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  left: 24px;
+  top: 114px;
+  border-radius: nullpx;
+  margin-top: 60px;
+}
+
+.body > p {
+  width: 327px;
+  height: 146px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 100%;
+  vertical-align: top;
+  color: #344563;
+  text-align: left;
+  border-radius: nullpx;
+  margin-top: 80px;
+}
+
+.socialMedia > h3 {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #7f8cff;
+  flex: none;
+  width: 117px;
+  height: 24px;
+}
+
+.socialMedia_logo {
+  width: 170.17px;
+  height: 20px;
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
