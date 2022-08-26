@@ -1,7 +1,7 @@
 #nav_header {
   display: flex;
   align-items: center;
-  width: 375px;
+  width: 327px;
   height: 40px;
   margin: auto;
   padding: 0 px;
@@ -9,15 +9,15 @@
 }
 
 .cellular_connection {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .wifi {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .battery {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .time > p {
@@ -35,12 +35,12 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 375px;
+  width: 327px;
   margin: auto;
   margin-top: 10px;
 }
 
-.nav_logo > h1 {
+a {
   font-family: 'Poppins', sans-serif;
   color: #6070ff;
   font-size: 1.5em;
@@ -58,12 +58,12 @@ nav {
 
 .background {
   height: 10px;
-  width: 375px;
+  width: 327px;
   margin: auto;
 }
 
 #content {
-  width: 375px;
+  width: 327px;
   height: 10px;
   display: flex;
   flex-direction: column;
